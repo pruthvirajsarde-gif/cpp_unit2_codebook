@@ -5,13 +5,7 @@ Course: Object-Oriented Programming with C++
 Unit: Inheritance  
 Language: oop with cpp
 
- About This Repository
-
-This repository contains practical programs for Unit 2 - Inheritance
-of Object-Oriented Programming with C++.
-
  Programs
-
 1. Basic Single Inheritance
 2. Protected Member Access
 3. Public versus Private Inheritance
